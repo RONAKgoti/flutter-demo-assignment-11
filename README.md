@@ -1,16 +1,49 @@
-# flutter_demo
+# Animation Screens
 
-A new Flutter project.
+This project is created for assignment submission.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Three different animation screens
+- Smooth navigation between screens
+- Interactive animation buttons
+- Clean and responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+## Animation Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Screen 1
+- AnimatedContainer
+- Size and color change animation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screen 2
+- AnimatedOpacity
+- Fade in / fade out effect
+
+### Screen 3
+- AnimationController
+- Rotating star icon animation
+
+## Widgets Used
+
+- Scaffold
+- AppBar
+- AnimatedContainer
+- AnimatedOpacity
+- RotationTransition
+- ElevatedButton
+- Navigator
+
+## Screenshots
+
+### Screen 1
+![Screen1](Screenshot%202026-05-03%20181111.png)
+
+### Screen 2
+![Screen2](Screenshot%202026-05-03%20181120.png)
+
+### Screen 3
+![Screen3](Screenshot%202026-05-03%20181127.png)
+
+## Result
+
+Application runs smoothly without UI issues or crashes.
